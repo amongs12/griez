@@ -1,0 +1,564 @@
+{
+  "Iklan": [
+    {
+      "status": "0",
+      "link": "https://play.google.com/",
+      "interid": "ca-app-pub-3940256099942544/1033173712",
+      "nativeid": "ca-app-pub-3940256099942544/2247696110",
+      "openads": "ca-app-pub-3940256099942544/1033173712",
+      "interval": 6,
+      "pengaturan_iklan": "1",
+      "fan_inter": "#",
+      "fan_banner_native": "#",
+      "inmobi_inter": "#",
+      "inmobi_banner": "#",
+      "inmobi_id": "#",
+      "startaap": "212999345",
+      "hpk_admob1": "",
+      "hpk_admob2": "",
+      "hpk_admob3": "",
+      "hpk_admob4": "",
+      "hpk_admob5": ""
+    }
+  ],
+  "More": [
+    {
+      "id": 1,
+      "judul": "Skin Among Us Wallpaper",
+      "image": "https://appimg2.dbankcdn.com/application/icon144/65/4bb11f42687f4f40a55ec7b5719867cd.png",
+      "link": "https://appgallery.huawei.com/#/app/C103087869"
+    },
+    {
+      "id": 2,
+      "judul": "ROBLOX Wallpapers",
+      "image": "https://appimg2.dbankcdn.com/application/icon144/65/958a0212c7dd495da04694788eeb2da5.png",
+      "link": "https://appgallery.huawei.com/#/app/C103166263"
+    },
+    {
+      "id": 3,
+      "judul": "Naruto Wallpaper HD",
+      "image": "https://appimg2.dbankcdn.com/application/icon144/65/c734fce69e5547c99708c941bb7ec019.png",
+      "link": "https://appgallery.huawei.com/#/app/C103095509"
+    },
+    {
+      "id": 4,
+      "judul": "Barbie Cake Design Ideas",
+      "image": "https://appimg2.dbankcdn.com/application/icon144/65/87c8eb74352e4b9bb03ed0ab3694d886.png",
+      "link": "https://appgallery.huawei.com/#/app/C101185071"
+    },
+    {
+      "id": 5,
+      "judul": "Cute Kawaii Bunny Wallpapers",
+      "image": "https://appimg2.dbankcdn.com/application/icon144/65/17cedde84c45490ab11c0677724fe0de.png",
+      "link": "https://appgallery.huawei.com/#/app/C102575733"
+    },
+    {
+      "id": 6,
+      "judul": "Cute BT21 Wallpapers",
+      "image": "https://appimg2.dbankcdn.com/application/icon144/65/16b0b4ddd754423bbf46509ebe8b7f47.png",
+      "link": "https://appgallery.huawei.com/#/app/C102575721"
+    },
+    {
+      "id": 7,
+      "judul": "Cute Hello Kitty Wallpapers",
+      "image": "https://appimg2.dbankcdn.com/application/icon144/65/fa5da001636b4b7caab21d908390ab4c.png",
+      "link": "https://appgallery.huawei.com/#/app/C102984609"
+    },
+    {
+      "id": 8,
+      "judul": "Cute Panda Wallpapers HD",
+      "image": "https://appimg2.dbankcdn.com/application/icon144/65/c897b38d88e94a16b0e2fc166ac29a03.png",
+      "link": "https://appgallery.huawei.com/#/app/C102575711"
+    },
+    {
+      "id": 9,
+      "judul": "Cute Ice Cream Wallpapers HD",
+      "image": "https://appimg2.dbankcdn.com/application/icon144/65/7d2e06bbeffd46b194bb4a9a1f72fd4a.png",
+      "link": "https://appgallery.huawei.com/#/app/C102575731"
+    },
+    {
+      "id": 10,
+      "judul": "Cute Pattern HD Wallpapers",
+      "image": "https://appimg2.dbankcdn.com/application/icon144/65/38dd48afd40142bda178ea18f95fbcf9.png",
+      "link": "https://appgallery.huawei.com/#/app/C102541967"
+    },
+    {
+      "id": 11,
+      "judul": "Cute Gacha Wallpapers HD",
+      "image": "https://appimg2.dbankcdn.com/application/icon144/65/9f411ada057546b6b5598e3fdc3f5292.png",
+      "link": "https://appgallery.huawei.com/#/app/C102575745"
+    },
+    {
+      "id": 12,
+      "judul": "Love Photo Frames",
+      "image": "https://appimg2.dbankcdn.com/application/icon144/65/2ad7da927a8043669ee7e162f92eecb0.png",
+      "link": "https://appgallery.huawei.com/#/app/C102405537"
+    },
+    {
+      "id": 13,
+      "judul": "League of Legends Wallpaper HD",
+      "image": "https://appimg2.dbankcdn.com/application/icon144/65/e67e426b5df04f2aba851fd673250251.png",
+      "link": "https://appgallery.huawei.com#/app/C103183013"
+    },
+    {
+      "id": 14,
+      "judul": "Doll Wallpaper HD",
+      "image": "https://appimg2.dbankcdn.com/application/icon144/65/2c06a9c3c14447eb8e668811bbe498c3.png",
+      "link": "https://appgallery.huawei.com#/app/C103196303"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "nama_cat": "Antoine Griezmann 1",
+      "gambar": "https://i.pinimg.com/564x/7b/99/e1/7b99e15516587e89e034a28ff9cd95f0.jpg"
+    },
+    {
+      "id": 2,
+      "nama_cat": "Antoine Griezmann 2",
+      "gambar": "https://i.pinimg.com/564x/d0/e2/e3/d0e2e336aa13d0edce2cd9b3e385eef5.jpg"
+    },
+    {
+      "id": 3,
+      "nama_cat": "Antoine Griezmann 3",
+      "gambar": "https://i.pinimg.com/564x/8d/1c/70/8d1c707bcc9f6b107829c8bbbd8a176b.jpg"
+    },
+    {
+      "id": 4,
+      "nama_cat": "Antoine Griezmann 4",
+      "gambar": "https://i.pinimg.com/564x/0c/10/9b/0c109b523507e81115f725f93867cd37.jpg"
+    },
+    {
+      "id": 5,
+      "nama_cat": "Antoine Griezmann 5",
+      "gambar": "https://i.pinimg.com/564x/7e/60/29/7e60291e91373dbb275b762305941bc8.jpg"
+    },
+    {
+      "id": 6,
+      "nama_cat": "Antoine Griezmann 6",
+      "gambar": "https://i.pinimg.com/564x/df/6c/4e/df6c4e489996a960fdd8bc1a68281a8c.jpg"
+    }
+  ],
+  "Wallpaper": [
+    {
+      "id": 1,
+      "id_wall": "001",
+      "nama_cat": "Antoine Griezmann 1",
+      "judul": "AImage 1",
+      "image": "https://i.pinimg.com/564x/2c/ee/43/2cee4351cc3e07d9c49f382ade3f0829.jpg"
+    },
+    {
+      "id": 2,
+      "id_wall": "002",
+      "nama_cat": "Antoine Griezmann 1",
+      "judul": "AImage 2",
+      "image": "https://i.pinimg.com/564x/f0/0e/87/f00e872f312d3fd815061f8bb41ba3b6.jpg"
+    },
+    {
+      "id": 3,
+      "id_wall": "003",
+      "nama_cat": "Antoine Griezmann 1",
+      "judul": "AImage 3",
+      "image": "https://i.pinimg.com/564x/44/9f/8f/449f8f6a16f97963aeb6960db905c6a3.jpg"
+    },
+    {
+      "id": 4,
+      "id_wall": "004",
+      "nama_cat": "Antoine Griezmann 1",
+      "judul": "AImage 4",
+      "image": "https://i.pinimg.com/564x/55/34/38/553438ed8214a7dad92d723096d34a6d.jpg"
+    },
+    {
+      "id": 5,
+      "id_wall": "005",
+      "nama_cat": "Antoine Griezmann 1",
+      "judul": "AImage 5",
+      "image": "https://i.pinimg.com/564x/83/3e/bf/833ebf3bc6b1a2724ed6cb1ae8286d9a.jpg"
+    },
+    {
+      "id": 6,
+      "id_wall": "006",
+      "nama_cat": "Antoine Griezmann 1",
+      "judul": "AImage 6",
+      "image": "https://i.pinimg.com/564x/e4/36/52/e43652c411b4a2235c0eaf58a8943c90.jpg"
+    },
+    {
+      "id": 7,
+      "id_wall": "007",
+      "nama_cat": "Antoine Griezmann 1",
+      "judul": "AImage 7",
+      "image": "https://i.pinimg.com/564x/7c/9c/6f/7c9c6f20cee76e4b4629e136f55e68c2.jpg"
+    },
+    {
+      "id": 8,
+      "id_wall": "008",
+      "nama_cat": "Antoine Griezmann 1",
+      "judul": "AImage 8",
+      "image": "https://i.pinimg.com/564x/b7/fd/dc/b7fddcc326c25226a66ecc4d47f8c3ec.jpg"
+    },
+    {
+      "id": 9,
+      "id_wall": "009",
+      "nama_cat": "Antoine Griezmann 1",
+      "judul": "AImage 9",
+      "image": "https://i.pinimg.com/564x/7e/aa/9b/7eaa9ba3ed09818aa11a5c1ad89c5088.jpg"
+    },
+    {
+      "id": 10,
+      "id_wall": "010",
+      "nama_cat": "Antoine Griezmann 1",
+      "judul": "AImage 10",
+      "image": "https://i.pinimg.com/564x/c6/b1/19/c6b119180841217a1865f1855730feee.jpg"
+    },
+    {
+      "id": 21,
+      "id_wall": "021",
+      "nama_cat": "Antoine Griezmann 2",
+      "judul": "BImage 1",
+      "image": "https://i.pinimg.com/564x/7e/60/29/7e60291e91373dbb275b762305941bc8.jpg"
+    },
+    {
+      "id": 22,
+      "id_wall": "022",
+      "nama_cat": "Antoine Griezmann 2",
+      "judul": "BImage 2",
+      "image": "https://i.pinimg.com/564x/49/96/44/499644d418943f7450641301977e63de.jpg"
+    },
+    {
+      "id": 23,
+      "id_wall": "023",
+      "nama_cat": "Antoine Griezmann 2",
+      "judul": "BImage 3",
+      "image": "https://i.pinimg.com/564x/cf/b9/4c/cfb94c49d079c0813d86ced8e68f7445.jpg"
+    },
+    {
+      "id": 24,
+      "id_wall": "024",
+      "nama_cat": "Antoine Griezmann 2",
+      "judul": "BImage 4",
+      "image": "https://i.pinimg.com/564x/14/59/b2/1459b2455394889c61a3d78f9a2bc1b8.jpg"
+    },
+    {
+      "id": 25,
+      "id_wall": "025",
+      "nama_cat": "Antoine Griezmann 2",
+      "judul": "BImage 5",
+      "image": "https://i.pinimg.com/564x/c9/6b/39/c96b393c924444d3d617a444a75695bd.jpg"
+    },
+    {
+      "id": 26,
+      "id_wall": "026",
+      "nama_cat": "Antoine Griezmann 2",
+      "judul": "BImage 6",
+      "image": "https://i.pinimg.com/564x/9c/09/96/9c099616c72b89e024e60c38dadbf8af.jpg"
+    },
+    {
+      "id": 27,
+      "id_wall": "027",
+      "nama_cat": "Antoine Griezmann 2",
+      "judul": "BImage 7",
+      "image": "https://i.pinimg.com/564x/8d/1c/70/8d1c707bcc9f6b107829c8bbbd8a176b.jpg"
+    },
+    {
+      "id": 28,
+      "id_wall": "028",
+      "nama_cat": "Antoine Griezmann 2",
+      "judul": "BImage 8",
+      "image": "https://i.pinimg.com/564x/df/6c/4e/df6c4e489996a960fdd8bc1a68281a8c.jpg"
+    },
+    {
+      "id": 29,
+      "id_wall": "029",
+      "nama_cat": "Antoine Griezmann 2",
+      "judul": "BImage 9",
+      "image": "https://i.pinimg.com/564x/79/f6/fa/79f6fab774c05997a54b15a137f977f8.jpg"
+    },
+    {
+      "id": 30,
+      "id_wall": "030",
+      "nama_cat": "Antoine Griezmann 2",
+      "judul": "BImage 10",
+      "image": "https://i.pinimg.com/564x/77/48/c9/7748c94f79c24c2c7099a2a651dd13bd.jpg"
+    },
+    {
+      "id": 41,
+      "id_wall": "041",
+      "nama_cat": "Antoine Griezmann 3",
+      "judul": "CImage 1",
+      "image": "https://i.pinimg.com/564x/0d/52/92/0d52925a5ba5bd7608bc8fbe7d84ce5e.jpg"
+    },
+    {
+      "id": 42,
+      "id_wall": "042",
+      "nama_cat": "Antoine Griezmann 3",
+      "judul": "CImage 2",
+      "image": "https://i.pinimg.com/564x/54/c9/81/54c9811017f014ec5afc4ee026275e88.jpg"
+    },
+    {
+      "id": 43,
+      "id_wall": "043",
+      "nama_cat": "Antoine Griezmann 3",
+      "judul": "CImage 3",
+      "image": "https://i.pinimg.com/564x/34/2b/c7/342bc74d4bdb8d97055c121b22757187.jpg"
+    },
+    {
+      "id": 44,
+      "id_wall": "044",
+      "nama_cat": "Antoine Griezmann 3",
+      "judul": "CImage 4",
+      "image": "https://i.pinimg.com/564x/1a/ac/1e/1aac1e7f69e7ca676e0917e8ba220cfc.jpg"
+    },
+    {
+      "id": 45,
+      "id_wall": "045",
+      "nama_cat": "Antoine Griezmann 3",
+      "judul": "CImage 5",
+      "image": "https://i.pinimg.com/564x/79/fb/cd/79fbcd255556b7c3a35173c92674cae4.jpg"
+    },
+    {
+      "id": 46,
+      "id_wall": "046",
+      "nama_cat": "Antoine Griezmann 3",
+      "judul": "CImage 6",
+      "image": "https://i.pinimg.com/564x/57/2a/0c/572a0c727549552929ed5b155e59d2a5.jpg"
+    },
+    {
+      "id": 47,
+      "id_wall": "047",
+      "nama_cat": "Antoine Griezmann 3",
+      "judul": "CImage 7",
+      "image": "https://i.pinimg.com/564x/f4/fb/f0/f4fbf022ded35cb67527888b6f6c01a7.jpg"
+    },
+    {
+      "id": 48,
+      "id_wall": "048",
+      "nama_cat": "Antoine Griezmann 3",
+      "judul": "CImage 8",
+      "image": "https://i.pinimg.com/564x/ea/5b/86/ea5b86f44feb3d6c36d8262184e93373.jpg"
+    },
+    {
+      "id": 49,
+      "id_wall": "049",
+      "nama_cat": "Antoine Griezmann 3",
+      "judul": "CImage 9",
+      "image": "https://i.pinimg.com/564x/f6/6a/65/f66a659cc58753147e4f0f0391f068ac.jpg"
+    },
+    {
+      "id": 50,
+      "id_wall": "050",
+      "nama_cat": "Antoine Griezmann 3",
+      "judul": "CImage 10",
+      "image": "https://i.pinimg.com/564x/3c/60/42/3c6042b046c5852a4341e01dca1f735d.jpg"
+    },
+    {
+      "id": 61,
+      "id_wall": "061",
+      "nama_cat": "Antoine Griezmann 4",
+      "judul": "DImage 1",
+      "image": "https://i.pinimg.com/564x/df/73/83/df738321155c34868710784a8cf0f973.jpg"
+    },
+    {
+      "id": 62,
+      "id_wall": "062",
+      "nama_cat": "Antoine Griezmann 4",
+      "judul": "DImage 2",
+      "image": "https://i.pinimg.com/564x/c2/10/a7/c210a75d966af3497418314ae5cb147b.jpg"
+    },
+    {
+      "id": 63,
+      "id_wall": "063",
+      "nama_cat": "Antoine Griezmann 4",
+      "judul": "DImage 3",
+      "image": "https://i.pinimg.com/564x/40/d1/43/40d143e6b648d486ff5b9db56956a7b4.jpg"
+    },
+    {
+      "id": 64,
+      "id_wall": "064",
+      "nama_cat": "Antoine Griezmann 4",
+      "judul": "DImage 4",
+      "image": "https://i.pinimg.com/564x/99/2c/c5/992cc5e5dfb3260a5ef3111bbec66a1e.jpg"
+    },
+    {
+      "id": 65,
+      "id_wall": "065",
+      "nama_cat": "Antoine Griezmann 4",
+      "judul": "DImage 5",
+      "image": "https://i.pinimg.com/564x/ef/6e/16/ef6e16da4579afa624e35ef3fbbe3332.jpg"
+    },
+    {
+      "id": 66,
+      "id_wall": "066",
+      "nama_cat": "Antoine Griezmann 4",
+      "judul": "DImage 6",
+      "image": "https://i.pinimg.com/564x/1b/6e/cb/1b6ecb36ec5be43ed27b6943edb3cf24.jpg"
+    },
+    {
+      "id": 67,
+      "id_wall": "067",
+      "nama_cat": "Antoine Griezmann 4",
+      "judul": "DImage 7",
+      "image": "https://i.pinimg.com/564x/47/a9/8f/47a98f040452eab13d7a59cbe6cfbecd.jpg"
+    },
+    {
+      "id": 68,
+      "id_wall": "068",
+      "nama_cat": "Antoine Griezmann 4",
+      "judul": "DImage 8",
+      "image": "https://i.pinimg.com/564x/e2/58/9c/e2589c72fdd46c776afd77f66c2a358d.jpg"
+    },
+    {
+      "id": 69,
+      "id_wall": "069",
+      "nama_cat": "Antoine Griezmann 4",
+      "judul": "DImage 9",
+      "image": "https://i.pinimg.com/564x/44/c5/ec/44c5ec70c2a73ef072a73fd63b38380f.jpg"
+    },
+    {
+      "id": 70,
+      "id_wall": "070",
+      "nama_cat": "Antoine Griezmann 4",
+      "judul": "DImage 10",
+      "image": "https://i.pinimg.com/564x/04/66/5f/04665f677eaeb47313781530c8149a22.jpg"
+    },
+    {
+      "id": 81,
+      "id_wall": "081",
+      "nama_cat": "Antoine Griezmann 5",
+      "judul": "EImage 1",
+      "image": "https://i.pinimg.com/564x/e1/f9/0b/e1f90bfc4c36d996982faefcc30db411.jpg"
+    },
+    {
+      "id": 82,
+      "id_wall": "082",
+      "nama_cat": "Antoine Griezmann 5",
+      "judul": "EImage 2",
+      "image": "https://i.pinimg.com/564x/88/98/f2/8898f215d9203585e1666950e9454571.jpg"
+    },
+    {
+      "id": 83,
+      "id_wall": "083",
+      "nama_cat": "Antoine Griezmann 5",
+      "judul": "EImage 3",
+      "image": "https://i.pinimg.com/564x/ee/4c/af/ee4caf21248ac73ae6816c1cfe4a0001.jpg"
+    },
+    {
+      "id": 84,
+      "id_wall": "084",
+      "nama_cat": "Antoine Griezmann 5",
+      "judul": "EImage 4",
+      "image": "https://i.pinimg.com/564x/83/6e/01/836e018f8d372f257b757f28e8b36c02.jpg"
+    },
+    {
+      "id": 85,
+      "id_wall": "085",
+      "nama_cat": "Antoine Griezmann 5",
+      "judul": "EImage 5",
+      "image": "https://i.pinimg.com/564x/47/a9/8f/47a98f040452eab13d7a59cbe6cfbecd.jpg"
+    },
+    {
+      "id": 86,
+      "id_wall": "086",
+      "nama_cat": "Antoine Griezmann 5",
+      "judul": "EImage 6",
+      "image": "https://i.pinimg.com/564x/40/bb/87/40bb87501900cc456d9c48f4c74d1c58.jpg"
+    },
+    {
+      "id": 87,
+      "id_wall": "087",
+      "nama_cat": "Antoine Griezmann 5",
+      "judul": "EImage 7",
+      "image": "https://i.pinimg.com/564x/92/cd/1c/92cd1c6e104b0a7a18c39afba8e9cb25.jpg"
+    },
+    {
+      "id": 88,
+      "id_wall": "088",
+      "nama_cat": "Antoine Griezmann 5",
+      "judul": "EImage 8",
+      "image": "https://i.pinimg.com/564x/db/23/c1/db23c1dd0bb123e677f6d0c6100bc264.jpg"
+    },
+    {
+      "id": 89,
+      "id_wall": "089",
+      "nama_cat": "Antoine Griezmann 5",
+      "judul": "EImage 9",
+      "image": "https://i.pinimg.com/564x/e6/55/95/e65595608ae33ec3b41fa36454a1e3eb.jpg"
+    },
+    {
+      "id": 90,
+      "id_wall": "090",
+      "nama_cat": "Antoine Griezmann 5",
+      "judul": "EImage 10",
+      "image": "https://i.pinimg.com/564x/10/cf/f4/10cff4ab6bb5f2edf458ae65e1c6daaf.jpg"
+    },
+    {
+      "id": 101,
+      "id_wall": "101",
+      "nama_cat": "Antoine Griezmann 6",
+      "judul": "FImage 1",
+      "image": "https://i.pinimg.com/564x/1d/32/71/1d3271ba064bd529531a74ff2522065c.jpg"
+    },
+    {
+      "id": 102,
+      "id_wall": "102",
+      "nama_cat": "Antoine Griezmann 6",
+      "judul": "FImage 2",
+      "image": "https://i.pinimg.com/564x/50/99/b8/5099b8c3577e14b7cb051bdb167e1f82.jpg"
+    },
+    {
+      "id": 103,
+      "id_wall": "103",
+      "nama_cat": "Antoine Griezmann 6",
+      "judul": "FImage 3",
+      "image": "https://i.pinimg.com/564x/aa/70/13/aa7013fcbdeb3a1b133a126de8b5074f.jpg"
+    },
+    {
+      "id": 104,
+      "id_wall": "104",
+      "nama_cat": "Antoine Griezmann 6",
+      "judul": "FImage 4",
+      "image": "https://i.pinimg.com/564x/1d/63/79/1d6379795533dadf9500462719861e8f.jpg"
+    },
+    {
+      "id": 105,
+      "id_wall": "105",
+      "nama_cat": "Antoine Griezmann 6",
+      "judul": "FImage 5",
+      "image": "https://i.pinimg.com/564x/21/66/d4/2166d42f312ebf222682d0d5532f674d.jpg"
+    },
+    {
+      "id": 106,
+      "id_wall": "106",
+      "nama_cat": "Antoine Griezmann 6",
+      "judul": "FImage 6",
+      "image": "https://i.pinimg.com/564x/36/b1/e4/36b1e4a4b2384c4bb914b3a6909902e3.jpg"
+    },
+    {
+      "id": 107,
+      "id_wall": "107",
+      "nama_cat": "Antoine Griezmann 6",
+      "judul": "FImage 7",
+      "image": "https://i.pinimg.com/564x/61/4e/d5/614ed56a40a9c63e779e22513ceace7e.jpg"
+    },
+    {
+      "id": 108,
+      "id_wall": "108",
+      "nama_cat": "Antoine Griezmann 6",
+      "judul": "FImage 8",
+      "image": "https://i.pinimg.com/564x/5d/a5/03/5da5034c1a23ca86bc86a7a1122ad4df.jpg"
+    },
+    {
+      "id": 109,
+      "id_wall": "109",
+      "nama_cat": "Antoine Griezmann 6",
+      "judul": "FImage 9",
+      "image": "https://i.pinimg.com/564x/74/dc/a5/74dca5aa5ad19374abf62815ce522dcb.jpg"
+    },
+    {
+      "id": 110,
+      "id_wall": "110",
+      "nama_cat": "Antoine Griezmann 6",
+      "judul": "FImage 10",
+      "image": "https://i.pinimg.com/564x/9f/df/d8/9fdfd891f1df09ab297914ac12e08e9e.jpg"
+    }
+  ]
+}
